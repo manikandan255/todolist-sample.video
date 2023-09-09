@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todolist-sample.video/static/css/main.0c9d9d25.css",
+    "main.js": "/todolist-sample.video/static/js/main.e0661273.js",
+    "static/media/Todo-List.mp4": "/todolist-sample.video/static/media/Todo-List.bfc29299dc50a31cec63.mp4",
+    "index.html": "/todolist-sample.video/index.html",
+    "main.0c9d9d25.css.map": "/todolist-sample.video/static/css/main.0c9d9d25.css.map",
+    "main.e0661273.js.map": "/todolist-sample.video/static/js/main.e0661273.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c9d9d25.css",
+    "static/js/main.e0661273.js"
+  ]
+}
